@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23434f3c4a0f0af4dbf4f8133ace9d5f, type: 3}
+  m_Name: MON00003
+  m_EditorClassIdentifier: 
+  thumbnail: {fileID: 0}
+  rcode: MON00003
+  displayName: "\uBFB0\uC871\uBD80\uB9AC\uACF5\uB8E1"
+  description: "\uBE60\uB978\uACF5\uB8E1"
+  maxHp: 100
+  hpPerLv: 10
+  spd: 150
+  def: 0
+  defPerLv: 1
+  atk: 7
+  atkPerLv: 2

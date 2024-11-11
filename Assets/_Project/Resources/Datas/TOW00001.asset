@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41470a79e3688574ab36889316499d6d, type: 3}
+  m_Name: TOW00001
+  m_EditorClassIdentifier: 
+  thumbnail: {fileID: 0}
+  rcode: TOW00001
+  displayName: "\uC77C\uBC18\uD0C0\uC6CC"
+  description: "\uD3C9\uBC94\uD55C \uD0C0\uC6CC"
+  power: 40
+  powerPerLv: 10
+  range: 300
+  cooldown: 180
+  duration: 30
+  cost: 3000
+  extra: 1
+  extraPerLv: 0.5
